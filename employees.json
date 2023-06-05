@@ -1,0 +1,88 @@
+[
+  {
+    "employeeId": 1,
+    "name": "Angel Sanchez",
+    "salary": 30000,
+    "department": "IT"
+  },
+  
+  {
+    "employeeId": 2,
+    "name": "Hugo Sanchez",
+    "salary": 40000,
+    "department": "Construction"
+
+},
+
+{
+    "employeeId": 3,
+    "name" :"John doe",
+    "salary": 50000,
+    "department":"IT"
+
+},
+
+{
+    "employeeId": 4,
+    "name": "Hector Alverez",
+    "salary": 40000,
+    "department": "Vet"
+
+},
+
+{
+   "employeeId": 5,
+   "name": "william Rivera",
+   "salary": 20000,
+   "department":"Construction"
+
+},
+
+{
+    "employeeId": 6,
+    "name" : "Wilson Peres",
+    "salary": 50000,
+    "department":"IT"
+
+
+},
+
+{
+
+    "employeeId" : 7,
+    "name": "Juan Rosario",
+    "salary": 50000,
+    "department":"IT"
+},
+
+
+{
+  "employeeId": 8,
+  "name":"Ivan Rosario",
+  "salary": 800000,
+  "department":"IT"
+
+},
+
+
+{
+   "employeeId" : 9,
+   "name" : "Jose Perez",
+   "salary" : 80000,
+   "department":"IT"
+
+},
+ {
+
+    "employeeId":10,
+    "name": "Jordan Guzman",
+    "salary":80000,
+    "department":"IT"
+ }
+
+
+
+
+
+
+]

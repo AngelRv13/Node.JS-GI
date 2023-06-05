@@ -1,0 +1,1 @@
+mercury,venus,mars,jupiter,neptune,pluto,uranus,earth
